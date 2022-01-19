@@ -1,4 +1,5 @@
 # String-session-Bot
+<p align="center"> <img src="https://te.legra.ph/file/31cf5416f1392b285f8ec.jpg"> </p>
 Telegram Bot to generate Pyrogram and Telethon String Session.
 
 > A star ⭐ from you means a lot to us!
